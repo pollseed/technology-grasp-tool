@@ -15,8 +15,14 @@ $ gradle eclipse
 
 ## Started
 
-## 実行
+## Run
 
 ```
 $ java -jar build/libs/technology-grasp-tool.jar server server.yml
+```
+
+## Test
+
+```
+localhost:8080/hello-world
 ```
