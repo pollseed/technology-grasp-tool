@@ -26,5 +26,9 @@ $ java -jar build/libs/technology-grasp-tool.jar server server.yml
 ### Test
 
 ```
+# GET Access for parameters
 localhost:8080/hello-world
+
+# Admin Operational MENU
+localhost:8081
 ```
