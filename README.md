@@ -20,7 +20,7 @@ $ gradle eclipse
 ### Run
 
 ```
-$ java -jar build/libs/technology-grasp-tool.jar server server.yml
+$ java -jar build/libs/technology-grasp-tool.jar server ./config/server.yml
 ```
 
 ### Test
