@@ -1,5 +1,7 @@
 technology-grasp-tool
 
+# Summary
+
 ## Required
 
 * Java 1.7.0.5
@@ -15,13 +17,13 @@ $ gradle eclipse
 
 ## Started
 
-## Run
+### Run
 
 ```
 $ java -jar build/libs/technology-grasp-tool.jar server server.yml
 ```
 
-## Test
+### Test
 
 ```
 localhost:8080/hello-world
